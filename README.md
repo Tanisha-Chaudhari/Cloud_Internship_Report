@@ -8,7 +8,7 @@ This repository contains my internship report submitted to **Savitribai Phule Pu
 - **Technology Used:** AWS (EC2, S3), Networking, VMware
 
 ## 📄 Files
-- `cloudintyernship_report.pdf` – My full internship report
+- `final_cloud_report2025.pdf` – My full internship report
 
 ## 💡 Key Learnings
 - ✅ EC2 Instance creation and SSH connection
